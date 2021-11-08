@@ -112,7 +112,7 @@
 
 [gimmick:themechooser](选择皮肤)
 
-[在线编辑](http://prose.io/#liminany/m)
+
 [查看本站源码](https://github.com/liminany/m/)
 
 <!--
