@@ -1,5 +1,7 @@
 {
-  "additionalFooterText": "POWER BY ROCKSOS ;",
-  "title": "YF Navation;",
+  "additionalFooterText": "POWER BY &copy; by ROCKSOS &nbsp;",
+  "anchorCharacter": "#",
+  "lineBreaks": "gfm",
+  "title": "YF Navation",
   "useSideMenu": true
 }
