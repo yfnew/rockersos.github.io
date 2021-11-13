@@ -33,7 +33,7 @@
 
 [gimmick:themechooser](切换显示模板)
 
-
+[导航网](https://yfwow.xyz)
 [查看本站源码](https://github.com/rockersos/rockersos.github.io)
 
 <!--
