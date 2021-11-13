@@ -4,15 +4,6 @@
   -- Default theme
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -- [gimmick:theme](flatly)
-  * ### 人生
-  * [人生十项](1life/notfound.md)
-  
-  * ### 爱情、婚姻、（原生）家庭、亲子
-  * [爱情](1life/notfound.md)
-
-  * ### 人际关系
-  * [人生](1life/movie.md)
-  
 -->
 
 [gimmick:theme](flatly)
