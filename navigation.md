@@ -15,11 +15,8 @@
   * [记录一些喜欢的游戏](blog/3games/like-games.md)
   * [xbox360 主机游戏](blog/3games/xbox360.md)  
 
-[导航网](https://yfwow.xyz)
-[聊天平台](https://rock.wows.today)
-[网盘系统](https://wp.moshoubot.com)
-[查看本站源码](https://github.com/rockersos/rockersos.github.io)
-
+[导we网](https://weweow.xyz)
+ 
 <!--
 [gimmick:Disqus](limin-mblogs)
 -->
